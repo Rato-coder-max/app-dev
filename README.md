@@ -2,7 +2,7 @@
 
 **-One Piece-**
 
-![One Piece Wallpaper](One_Piece.jpg)
+![One Piece Wallpaper](./images/One_Piece.jpg)
 
 [One Piece Wikipedia](https://en.wikipedia.org/wiki/One_Piece_(1999_TV_series))
 
