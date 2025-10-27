@@ -1,6 +1,6 @@
 # My Favourite Series
 
-**-One Piece-**
+# **-One Piece-**
 
 ![One Piece Wallpaper](./images/One_Piece.jpg)
 
